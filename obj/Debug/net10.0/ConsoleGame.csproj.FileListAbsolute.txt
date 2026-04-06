@@ -1,0 +1,14 @@
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\bin\Debug\net10.0\ConsoleGame.exe
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\bin\Debug\net10.0\ConsoleGame.deps.json
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\bin\Debug\net10.0\ConsoleGame.runtimeconfig.json
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\bin\Debug\net10.0\ConsoleGame.dll
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\bin\Debug\net10.0\ConsoleGame.pdb
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.dll
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\refint\ConsoleGame.dll
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.pdb
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\arifb\OneDrive\Masaüstü\ConsoleGame\obj\Debug\net10.0\ref\ConsoleGame.dll
